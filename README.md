@@ -10,4 +10,7 @@ http://bit.ly/2sImKLB
 Proceed With:
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
 http://landofcode.com/html-exercises/
