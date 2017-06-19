@@ -13,4 +13,6 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
+https://www.w3schools.com/tags/default.asp
+
 http://landofcode.com/html-exercises/
