@@ -17,3 +17,19 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://www.w3schools.com/tags/default.asp
 
 http://landofcode.com/html-exercises/
+
+Conclusion:
+
+Subscribe to:  
+
+https://www.youtube.com/channel/UCduIoIMfD8tT3KoU0-zBRgQ
+
+https://www.facebook.com/MyGUVI/
+
+https://goo.gl/forms/cDTGYNjpCM4TDnJJ2
+
+Contact Details:
+
+spbalamurugan@guvi.in
+9840224594
+https://www.facebook.com/sp.balamurugan
